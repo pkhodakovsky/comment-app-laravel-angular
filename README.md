@@ -1,6 +1,6 @@
 ## Installation
 
-1. Clone the repo: `git clone git@github.com:scotch-io/laravel-angular-comment-app`
+1. Clone the repo: `git clone git@github.com:pkhodakovsky/comment-app-laravel-angular.git`
 2. change directory: `cd laravel-angular-comment-app/`
 3. Install Laravel: `composer install --prefer-dist`
 4. Change your database settings in `app/config/database.php`
